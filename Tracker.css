@@ -205,7 +205,7 @@
         margin:0px;
         /* border:1px black solid; */
         width:80%;
-        margin-left:20%;
+        margin-left:14%;
         border-radius: 8px;/* here as we round it header will overflow*/
         overflow:hidden;
         box-shadow:2px 0px 4px #ff9f33;
